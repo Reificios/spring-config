@@ -9,5 +9,5 @@ spec:
     name: spring-config-service
   tls: null
   port:
-    targetPort: 8080
+    targetPort: 8888
   alternateBackends: []
